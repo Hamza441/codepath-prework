@@ -12,13 +12,13 @@ Link to project: (insert your link here, should start with https://glitch.com...
 
 The following **required** functionality is complete:
 
-* [ x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [x ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ x] Game buttons each light up and play a sound when clicked. 
-* [x ] Computer plays back sequence of clues including sound and visual cue for each button
-* [x ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [x ] User wins the game after guessing a complete pattern
-* [x ] User loses the game after an incorrect guess
+* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [ ] Game buttons each light up and play a sound when clicked. 
+* [ ] Computer plays back sequence of clues including sound and visual cue for each button
+* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [ ] User wins the game after guessing a complete pattern
+* [ ] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -37,12 +37,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
+Here is the Gif file that I created
+![](https://i.imgur.com/CnJrGXi.gif)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
