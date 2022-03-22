@@ -43,16 +43,16 @@ Here is the Gif file that I created
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[Glitch, GitHub, QuickTime to record, HackMd, ]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[2-    The instructions were clear and easy to follow in the submission. However, there were some challenges I had when hiding the start and stop buttons. To call the start and stop methods, for example, we must wire up the start and stop buttons to call the proper routines. There was something missing to wire up, and it will take some time to correct because it appears that if I define and implement these two methods, they will work. I eventually revealed that I needed to add startGame() and StopGame() attributes to the index.tml, as well as hide the class. Also, I felt like a struggle while I was submitting the submission to GitHub because I had never used GitHub desktop before, but I enjoyed it because the video was incredibly useful and easy to follow, so the YouTube video helped me get used to it. When I was updating the README file, I was thinking that if I hit the save button, it would automatically update the file in the web repository. Later, I realized that if I made changes to the files, I needed to commit them to the main repository, comment them, and push them to the main repository.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[3-    I think web development is exciting to learn, and really, I enjoyed working on this assignment. I don’t have questions about the web development except that I need to learn and dive in.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[4-    If I had more time to modify the project will do; I will make the start and stop buttons separate so that the user can clearly see the difference between to functions. Also, add more 8 different rectangles so that the user will have more options to choose. Also, I will add emojis like happy face whenever the user wins and congratulation sign. I will also, add another function that allows multiples people to play the game. This function will allow at least two players will play the game and it count and track each player guesses.]
 
 
 
