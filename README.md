@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Hamse Ahmed**
 
-Time spent: **#** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/sunset-gamy-thyme?path=style.css%3A1%3A0)
 
 ## Required Functionality
 
@@ -76,3 +76,4 @@ Here is the Gif file that I created
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
